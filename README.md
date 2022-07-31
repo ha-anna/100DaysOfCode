@@ -192,8 +192,14 @@ I spent the day working on the #CSS of the CV project. I made the page responsiv
 
 ---
 
+## Template:
+
+```
+---
+
 ## Day
 
 [Live Page]()
 [Github Repo]()
 ![]()
+```
