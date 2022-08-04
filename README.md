@@ -192,6 +192,38 @@ I spent the day working on the #CSS of the CV project. I made the page responsiv
 
 ---
 
+## Day 21
+
+Today I worked on some animations for Airbnb experiences clone (#react), started working on v.2 of my portfolio, and tried improving my CV project.
+
+I will be travelling across the globe in a few days and things are about to get hectic so I am not sure how much I will be able to code in the upcoming days.
+
+[Live Page](https://react-airbnb-clone-mocha.vercel.app/)
+
+[Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/react_airbnb_clone)
+
+![](https://github.com/its-haanna/its-haanna.github.io/blob/main/Scrimba_Projects/react_airbnb_clone/gif_airbnb-clone.gif)
+
+---
+
+## Day 22
+
+oday I deployed the 2nd version of my portfolio, fully designed and coded by me in React. It was not always easy but I enjoyed the process of figuring things out. I wanted to experiment with neubrutalism design while also staying true to myself and using the colors and fonts that represent my personal identity. I made the 1st version of my page 2 months ago, but during that time I have learned so much, it's almost hard to believe. I can't wait to see what I'll be able to do in the future!
+
+[Live Page](https://haanna.com/)
+
+![](https://media-exp1.licdn.com/dms/image/C4D22AQE6_yyqnOXUsg/feedshare-shrink_800/0/1655227235306?e=1662595200&v=beta&t=1YGd8VQAr4nKJOqF2bmNuUbonuqmtu2_iLyoeJdwNsw)
+---
+
+## Day 23
+
+My focus today was on improving my portfolio's performance. I ran different tests and double-checked headings map, color contrast, and alt tags, viewed my page on tablets, and phones, troubleshot CSS, converted pngs into webps, and converted my font imports into woff.
+I also solved some challenges on codewars and reached 7 kyu. Now onto 6 kyu! 
+
+Tomorrow is my last day before a long flight, so I don't think I will be able to do much coding.
+
+---
+
 ## Template:
 
 ```
