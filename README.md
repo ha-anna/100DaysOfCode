@@ -160,7 +160,9 @@ Phew! Today was a busy day! I started my morning by revising semantic #HTML and 
 After that, I jumped straight back into #React. I began another project, a meme generator and spent my time setting it up, creating #CSS, a custom logo and looking for nice colors to use. Now I am learning about state and the difference between state and props.
 
 [Live Page](https://its-haanna.github.io/Scrimba_Projects/basketball_scoreboard/)
+
 [Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/basketball_scoreboard)
+
 ![](https://media-exp1.licdn.com/dms/image/C4E22AQEs7Teo11xi3g/feedshare-shrink_2048_1536/0/1654792985957?e=1661990400&v=beta&t=3ksMtn1zqWEUlnzbQNeKBDFQfYa-cUy3DC9okr4duaQ)
 
 ---
@@ -258,7 +260,6 @@ I also learned the basics of forms in #react and updated my links and resources 
 
 ![](https://media-exp1.licdn.com/dms/image/C4D22AQE7TmwPVOeEQA/feedshare-shrink_800/0/1655766019926?e=1663804800&v=beta&t=Tu1NMthLuiOQdj2bkS-ohoEBOKQvOy5xIg5gSvDu8Sw)
 
-=======
 I also solved some challenges on codewars and reached 7 kyu. Now onto 6 kyu!
 
 Tomorrow is my last day before a long flight, so I don't think I will be able to do much coding.
