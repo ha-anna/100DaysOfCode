@@ -147,7 +147,9 @@ Today I completed my first React Solo Project! (link below) After some ups and d
 Today I completed the second solo #react project and I loved every minute of it! Through this project, I have practised using props, creating reusable components, and destructuring objects. I also got to play around with CSS and made sure the page is responsive and accessible.
 
 [Live Page](https://react-travel-journal-one.vercel.app/)
+
 [Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/react_travel_journal)
+
 ![](https://github.com/its-haanna/its-haanna.github.io/raw/main/Scrimba_Projects/react_travel_journal/gif_travel-journal.gif)
 
 ---
@@ -202,36 +204,26 @@ I will be travelling across the globe in a few days and things are about to get 
 
 [Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/react_airbnb_clone)
 
-<<<<<<< HEAD
 ![](https://media-exp1.licdn.com/dms/image/C4E22AQF_Z0wv9hprzQ/feedshare-shrink_2048_1536/0/1655137784808?e=1663804800&v=beta&t=13uRG2TN7gi6LCsdmKMkBgFQmgOJ0vEfeO4NxKXWjbA)
-=======
+
 ![](https://github.com/its-haanna/its-haanna.github.io/blob/main/Scrimba_Projects/react_airbnb_clone/gif_airbnb-clone.gif)
->>>>>>> 99b79476b94c534f1921b3fab7297264fd27ea2b
 
 ---
 
 ## Day 22
 
-<<<<<<< HEAD
 Today I deployed the 2nd version of my portfolio, fully designed and coded by me in React. It was not always easy but I enjoyed the process of figuring things out. I wanted to experiment with neubrutalism design while also staying true to myself and using the colors and fonts that represent my personal identity. I made the 1st version of my page 2 months ago, but during that time I have learned so much, it's almost hard to believe. I can't wait to see what I'll be able to do in the future!
-
-[haanna.com](https://haanna.com/)
-
-![](https://media-exp1.licdn.com/dms/image/C4D22AQE6_yyqnOXUsg/feedshare-shrink_800/0/1655227235306?e=1663804800&v=beta&t=xfApIADuPaD44Z8xAwQT3ebHXzEgRtQjV9PgV-xSWok)
-
-=======
-oday I deployed the 2nd version of my portfolio, fully designed and coded by me in React. It was not always easy but I enjoyed the process of figuring things out. I wanted to experiment with neubrutalism design while also staying true to myself and using the colors and fonts that represent my personal identity. I made the 1st version of my page 2 months ago, but during that time I have learned so much, it's almost hard to believe. I can't wait to see what I'll be able to do in the future!
 
 [Live Page](https://haanna.com/)
 
 ![](https://media-exp1.licdn.com/dms/image/C4D22AQE6_yyqnOXUsg/feedshare-shrink_800/0/1655227235306?e=1662595200&v=beta&t=1YGd8VQAr4nKJOqF2bmNuUbonuqmtu2_iLyoeJdwNsw)
->>>>>>> 99b79476b94c534f1921b3fab7297264fd27ea2b
+
 ---
 
 ## Day 23
 
 My focus today was on improving my portfolio's performance. I ran different tests and double-checked headings map, color contrast, and alt tags, viewed my page on tablets, and phones, troubleshot CSS, converted pngs into webps, and converted my font imports into woff.
-<<<<<<< HEAD
+
 I also solved some challenges on codewars and reached 7 kyu. Now onto 6 kyu!
 
 Tomorrow is my last day before a long flight, so I don't think I will be able to do much coding.
@@ -267,11 +259,10 @@ I also learned the basics of forms in #react and updated my links and resources 
 ![](https://media-exp1.licdn.com/dms/image/C4D22AQE7TmwPVOeEQA/feedshare-shrink_800/0/1655766019926?e=1663804800&v=beta&t=Tu1NMthLuiOQdj2bkS-ohoEBOKQvOy5xIg5gSvDu8Sw)
 
 =======
-I also solved some challenges on codewars and reached 7 kyu. Now onto 6 kyu! 
+I also solved some challenges on codewars and reached 7 kyu. Now onto 6 kyu!
 
 Tomorrow is my last day before a long flight, so I don't think I will be able to do much coding.
 
->>>>>>> 99b79476b94c534f1921b3fab7297264fd27ea2b
 ---
 
 ## Template:
