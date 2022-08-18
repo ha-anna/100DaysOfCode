@@ -66,7 +66,9 @@ I spent this Sunday learning about local storage, API and SASS while coding the 
 I had some moments when I was starting to think I cannot do it but taking a short break and reorganizing my plan helped me thunderously.
 
 [Live Page](https://its-haanna.github.io/Scrimba_Projects/Movie_watchlist/)
+
 [Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/Movie_watchlist)
+
 ![](https://github.com/its-haanna/its-haanna.github.io/raw/main/Scrimba_Projects/Movie_watchlist/gif_moviewatchlist.gif)
 
 ---
