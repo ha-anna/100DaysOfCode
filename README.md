@@ -192,6 +192,69 @@ I spent the day working on the #CSS of the CV project. I made the page responsiv
 
 ---
 
+## Day 21
+
+Today I worked on some animations for Airbnb experiences clone (#react), started working on v.2 of my portfolio, and tried improving my CV project.
+
+I will be travelling across the globe in a few days and things are about to get hectic so I am not sure how much I will be able to code in the upcoming days.
+
+[Live Page](https://react-airbnb-clone-mocha.vercel.app/)
+
+[Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/react_airbnb_clone)
+
+![](https://media-exp1.licdn.com/dms/image/C4E22AQF_Z0wv9hprzQ/feedshare-shrink_2048_1536/0/1655137784808?e=1663804800&v=beta&t=13uRG2TN7gi6LCsdmKMkBgFQmgOJ0vEfeO4NxKXWjbA)
+
+---
+
+## Day 22
+
+Today I deployed the 2nd version of my portfolio, fully designed and coded by me in React. It was not always easy but I enjoyed the process of figuring things out. I wanted to experiment with neubrutalism design while also staying true to myself and using the colors and fonts that represent my personal identity. I made the 1st version of my page 2 months ago, but during that time I have learned so much, it's almost hard to believe. I can't wait to see what I'll be able to do in the future!
+
+[haanna.com](https://haanna.com/)
+
+![](https://media-exp1.licdn.com/dms/image/C4D22AQE6_yyqnOXUsg/feedshare-shrink_800/0/1655227235306?e=1663804800&v=beta&t=xfApIADuPaD44Z8xAwQT3ebHXzEgRtQjV9PgV-xSWok)
+
+---
+
+## Day 23
+
+My focus today was on improving my portfolio's performance. I ran different tests and double-checked headings map, color contrast, and alt tags, viewed my page on tablets, and phones, troubleshot CSS, converted pngs into webps, and converted my font imports into woff.
+I also solved some challenges on codewars and reached 7 kyu. Now onto 6 kyu!
+
+Tomorrow is my last day before a long flight, so I don't think I will be able to do much coding.
+
+![](https://media-exp1.licdn.com/dms/image/C4D22AQHCxRQNehnN8Q/feedshare-shrink_800/0/1655305522690?e=1663804800&v=beta&t=FBtBlGmvjfZb2rTFT3UrlQl16YBIMPGrXLB_sdPaHRo)
+
+---
+
+## Day 24
+
+During my flight, I read two chapters of Clean Code and started refactoring #javascript in one of my older projects since I keep thinking that there are too many repetitions in it.
+
+And starting today, I will go back to learning #react and finally finishing the meme generator project!
+
+---
+
+## Day 25
+
+Wohooo, it's been already 25 days which means a big chunk of this challenge is already behind me!
+
+Today I've been learning about conditional rendering, local state, and unified state in #react. Thanks to that I revised if statements, logical and ternary operators! When I started learning React I was a bit worried about whether it would be possible for me to learn it or not but I have to say, I'm having so much fun now. Every day I look forward to what I will be able to do next. :)
+
+![](https://media-exp1.licdn.com/dms/image/C4D22AQF2kBESkx3o5g/feedshare-shrink_800/0/1655677043659?e=1663804800&v=beta&t=gRm8Ote1H5Z4nxa7X5y-uualFlIxVdwltKlgLIPx5YU)
+
+---
+
+## Day 26
+
+Since today is the first day of #ScrimbaChallengeWeek, I decided to also participate and get some #JavaScript practice! It's always a great opportunity to see solutions from other learners and learn a thing or two.
+
+I also learned the basics of forms in #react and updated my links and resources repo (you can find it here: [Github Repo](https://github.com/its-haanna/links-and-resources)).
+
+![](https://media-exp1.licdn.com/dms/image/C4D22AQE7TmwPVOeEQA/feedshare-shrink_800/0/1655766019926?e=1663804800&v=beta&t=Tu1NMthLuiOQdj2bkS-ohoEBOKQvOy5xIg5gSvDu8Sw)
+
+---
+
 ## Template:
 
 ```
