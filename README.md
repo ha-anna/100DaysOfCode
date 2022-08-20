@@ -335,9 +335,12 @@ Recently, I've applied to take a part in Chingu's remote Dev team project and I'
 
 ## Day 33
 
-[Live Page]()
-[Github Repo]()
-![]()
+Finally, I'm back to learning #react!
+Today, I've been working on building Tenzies game and learned about useState lazy initialization.
+
+In the afternoon, I've also watched Scrimba's live with Manuel Matuzović about writing good HTML, which was very educational.
+
+![](https://media-exp1.licdn.com/dms/image/C4D22AQE1OwtSDfgIHw/feedshare-shrink_800/0/1657153270612?e=1663804800&v=beta&t=dQFapTLDRYLJ6VruB5Ro_rUIhJ1zF4pYLqLR9UheZWI)
 
 ---
 
