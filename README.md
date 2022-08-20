@@ -280,9 +280,13 @@ Other than that, I continued learning about forms in #react, attended Scrimba's 
 
 ## Day 28
 
-[Live Page]()
-[Github Repo]()
-![]()
+Today I coded another Scrimba Weekly Challenge project! I added custom animations, tweaked CSS and added a surprise for some lucky (or maybe unlucky) person.
+
+I also studied more about forms in #react, started working on the meme generator again and updated my cv page to display complete information in Korean.
+
+[Live Page](https://codepen.io/haanna/pen/GRQbRxQ)
+
+![](https://media-exp1.licdn.com/dms/image/C4D22AQHdN5GbGyHGHg/feedshare-shrink_800/0/1655940054966?e=1663804800&v=beta&t=knmsPwy15QxoISff1soC9BTf1-GxSL0y8_ugm9hJ7mw)
 
 ---
 
