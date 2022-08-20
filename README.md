@@ -292,9 +292,13 @@ I also studied more about forms in #react, started working on the meme generator
 
 ## Day 29
 
-[Live Page]()
-[Github Repo]()
-![]()
+Another day, another Scrimba Weekly Challenge! One more left to go.
+
+Today, I learned about useEffect in #react, fixed some typos and small issues in my older projects, and helped other students of Scrimba community. Tomorrow I should finally complete the meme generator!
+
+[Live Page](https://codepen.io/haanna/pen/qBxzKKG)
+
+![](https://media-exp1.licdn.com/dms/image/C4D22AQFKF4VcBHWwCg/feedshare-shrink_800/0/1656025328916?e=1663804800&v=beta&t=DJQNk_BS6Pga_0ldwU85NHHFr2i1XSB8mit6X05cdKs)
 
 ---
 
