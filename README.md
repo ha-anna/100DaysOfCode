@@ -268,6 +268,38 @@ Tomorrow is my last day before a long flight, so I don't think I will be able to
 
 ---
 
+## Day 27
+
+[Live Page]()
+[Github Repo]()
+![]()
+
+---
+
+## Day 28
+
+[Live Page]()
+[Github Repo]()
+![]()
+
+---
+
+## Day 29
+
+[Live Page]()
+[Github Repo]()
+![]()
+
+---
+
+## Day 30
+
+[Live Page]()
+[Github Repo]()
+![]()
+
+---
+
 ## Template:
 
 ```
