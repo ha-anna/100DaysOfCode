@@ -346,9 +346,14 @@ In the afternoon, I've also watched Scrimba's live with Manuel Matuzović about 
 
 ## Day 34
 
-[Live Page]()
-[Github Repo]()
-![]()
+oday I kept working on the Tenzies game. And I have finally completed the basic functionality and tweaked CSS to my liking!
+Tomorrow, I will be working on adding additional things, such as adding dots on the dice and tracking number of rolls!
+
+[Live Page](https://react-tenzies-game.vercel.app/)
+
+[Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/react_tenzies_game)
+
+![](https://github.com/its-haanna/its-haanna.github.io/raw/main/Scrimba_Projects/react_tenzies_game/gif_tenzies.gif)
 
 ---
 
