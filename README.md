@@ -327,9 +327,9 @@ Other than that, I've been reviewing code and helping other students and replyin
 
 ## Day 32
 
-[Live Page]()
-[Github Repo]()
-![]()
+Today I worked on assignments from #CS50 in #C, listened to Scrimba's Town Hall and reviewed some parts of #JavaScript.
+
+Recently, I've applied to take a part in Chingu's remote Dev team project and I'm excited to share that I've been accepted! Not only have they been super fast with reviewing my project but also the feedback I've received was valuable and will help me improve in the future. I'm really eager to work on a team project in August, build something cool and meet new people!
 
 ---
 
