@@ -270,9 +270,11 @@ Tomorrow is my last day before a long flight, so I don't think I will be able to
 
 ## Day 27
 
-[Live Page]()
-[Github Repo]()
-![]()
+I had a remarkable day today! Why? I completed my first code review and it was an amazing experience. Scrimba really knows what they are doing by teaching us how to do it and encouraging it.
+
+Other than that, I continued learning about forms in #react, attended Scrimba's town hall meeting and participated in the 2nd day of Weekly Challenge. You can check out what I made live here: [Live Page](https://codepen.io/haanna/pen/LYQKYEp)
+
+![](https://media-exp1.licdn.com/dms/image/C4D22AQFsbZ4m2gn7pg/feedshare-shrink_800/0/1655856724131?e=1663804800&v=beta&t=UhLoC3kzZrNah28KrlzA7ZCPSNiSvYigGjaoyZ1GPy0)
 
 ---
 
