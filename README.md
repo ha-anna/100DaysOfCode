@@ -318,9 +318,10 @@ Starting tomorrow, I will take a week-long break from posting. I plan to spend t
 
 ## Day 31
 
-[Live Page]()
-[Github Repo]()
-![]()
+I am back! I have recharged my batteries and I am ready to get back into more intense coding again.
+
+I've been watching Harvard's CS50 lectures and today I've finished the 2nd one, the one about C. I can now see where JavaScript got its syntax from.
+Other than that, I've been reviewing code and helping other students and replying to their questions. A bit of a lazy day but I've learned new things nonetheless.
 
 ---
 
