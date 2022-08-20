@@ -346,7 +346,7 @@ In the afternoon, I've also watched Scrimba's live with Manuel Matuzović about 
 
 ## Day 34
 
-oday I kept working on the Tenzies game. And I have finally completed the basic functionality and tweaked CSS to my liking!
+Today I kept working on the Tenzies game. And I have finally completed the basic functionality and tweaked CSS to my liking!
 Tomorrow, I will be working on adding additional things, such as adding dots on the dice and tracking number of rolls!
 
 [Live Page](https://react-tenzies-game.vercel.app/)
@@ -359,9 +359,13 @@ Tomorrow, I will be working on adding additional things, such as adding dots on 
 
 ## Day 35
 
-[Live Page]()
-[Github Repo]()
-![]()
+Today I added a timer and a roll counter to my Tenzies game, coded confetti in JavaScript during coding livestream, and stated working on Quizzical!
+
+I was worried about it, since I've heard many complaints about this project but for now it's going okay (hopefully it will stay this way)! But even if it doesn't, I know I will find solution in the end.
+
+Something cool has happened, too! I've reached 250 karma points on Scrimba discord channel (you get points for helping other students and 250 is kind of important milestone, you get a Scrimba hoodie when you reach 250 points). I've been a member of this community for about two months but I really feel like I've learned so many things thanks them. Thanks Scrimba, for being really awesome and changing people's lives, one line of code a time!
+
+![](https://media-exp1.licdn.com/dms/image/C4D22AQGMvL4Oh_u4WQ/feedshare-shrink_800/0/1657321967163?e=1663804800&v=beta&t=-RAMAYw6ChDyOrW2s27Pl6PJ8o1IAzgrcVEfMHLeTI0)
 
 ---
 
