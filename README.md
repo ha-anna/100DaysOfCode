@@ -357,6 +357,14 @@ Tomorrow, I will be working on adding additional things, such as adding dots on 
 
 ---
 
+## Day 35
+
+[Live Page]()
+[Github Repo]()
+![]()
+
+---
+
 ## Template:
 
 ```
