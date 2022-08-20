@@ -304,9 +304,15 @@ Today, I learned about useEffect in #react, fixed some typos and small issues in
 
 ## Day 30
 
-[Live Page]()
-[Github Repo]()
-![]()
+Today I have finally finished the meme generator project in #react! I've also completed the last challenge of Scrimba Challenge Week.
+
+Starting tomorrow, I will take a week-long break from posting. I plan to spend the upcoming week with my family and rest in nature with no wifi and some books.
+
+[Live Page](https://react-meme-generator-liart.vercel.app/)
+
+[Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/react_meme_generator)
+
+![](https://github.com/its-haanna/its-haanna.github.io/raw/main/Scrimba_Projects/react_meme_generator/gif_meme-generator.gif)
 
 ---
 
