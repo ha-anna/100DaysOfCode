@@ -387,26 +387,36 @@ I spent this Sunday rethinking my approach to Quizzical and implementing my idea
 
 ## Day 38
 
-[Live Page]()
-[Github Repo]()
-![]()
+I was having a hard time today creating interactive state for my answer buttons. But thanks to my persistance and awesome notes that I took in the past, I managed to set everything up!
+Tomorrow, I will work on adding more options and setting correct/incorrect answer check logic.
+
+![](https://media-exp1.licdn.com/dms/image/C4E22AQHzN2emMGwraA/feedshare-shrink_800/0/1657582321533?e=1671667200&v=beta&t=0WJtMcAg8qA1OXghxIbNJGNN5QfJ6JrDyvRavkjLw7E)
 
 
 ---
 
 ## Day 39
 
-[Live Page]()
-[Github Repo]()
-![]()
+Yes!! I've finished v1 of Quizzical!
+It was tough but now that it's done, I think how many things I've learned and how much better I got at #React!
+Can't wait to start the Advanced React module soon! 
+
+[Live Page](https://react-quizzical.vercel.app/)
+[Github Repo](https://github.com/its-haanna/react_quizzical)
+![](https://media-exp1.licdn.com/dms/image/C4D22AQEaTILa24ZnhA/feedshare-shrink_800/0/1657670315765?e=1671667200&v=beta&t=_CYVYnpJKhxU0EP59fd-HwHciaqO2DMv8ror-hzL7Ok)
 
 ---
 
 ## Day 40
 
-[Live Page]()
-[Github Repo]()
-![]()
+Today, I completed the first lesson of the Web Accessibility course, began the Advanced React course (time to review JS Classes!), and updated my links and resources repository.
+
+I've also gathered some insightful tips and reviews about my Quizzical and plan on working to improve the code tomorrow so I can soon submit it for a code review.
+
+When I began learning how to code, I was afraid of reviews and having others tell me what mistakes I'd made. But ever since I became a part of the Scrimba community, I discovered how much I could improve by having my code reviewed and reviewing other people's code. So nowadays, I'm actually looking forward to seeing what others think about my code. :)
+
+[My updated resources repository](https://github.com/its-haanna/links-and-resources)
+
 
 ---
 
