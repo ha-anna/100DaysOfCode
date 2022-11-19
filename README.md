@@ -371,17 +371,17 @@ Something cool has happened, too! I've reached 250 karma points on Scrimba disco
 
 ## Day 36
 
-[Live Page]()
-[Github Repo]()
-![]()
+Since it's saturday, I decided to take it easy and just work a bit on Quizzical. I wrote some CSS, organized some logic and worked on fetching the data (it's giving me some problems so I'll have to rethink my approach tomorrow).
+
+I've also revised my accessibility notes and started Udacity's Web Accessibility course. Creating accessible pages is really important to me, so I try to expand my knowledge about it whenever I can.
 
 ---
 
 ## Day 37
 
-[Live Page]()
-[Github Repo]()
-![]()
+I spent this Sunday rethinking my approach to Quizzical and implementing my ideas. Now the components change how I wanted them to based on state, questions are rendering, answers' order is randomized, and data decodes as it should. This project is really great in terms of making me practice everything that I've learned recently. Tough but I'm still enjoying it!
+
+![](https://media-exp1.licdn.com/dms/image/C4D22AQEb5KmBRc6eGQ/feedshare-shrink_800/0/1657492154027?e=1671667200&v=beta&t=qufei63A2eeGpZ65AgbMP_KSIcNMhpAZOfUTeCzKePc)
 
 ---
 
