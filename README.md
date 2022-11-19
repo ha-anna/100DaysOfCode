@@ -369,6 +369,47 @@ Something cool has happened, too! I've reached 250 karma points on Scrimba disco
 
 ---
 
+## Day 36
+
+[Live Page]()
+[Github Repo]()
+![]()
+
+---
+
+## Day 37
+
+[Live Page]()
+[Github Repo]()
+![]()
+
+---
+
+## Day 38
+
+[Live Page]()
+[Github Repo]()
+![]()
+
+
+---
+
+## Day 39
+
+[Live Page]()
+[Github Repo]()
+![]()
+
+---
+
+## Day 40
+
+[Live Page]()
+[Github Repo]()
+![]()
+
+---
+
 ## Template:
 
 ```
