@@ -12,11 +12,11 @@ Today I made a color scheme generator with HTML, CSS, JavaScript and The Color A
 
 I spend a long time looking at color palettes when making graphics so being able to code it myself felt amazing.
 
-[Live page](https://its-haanna.github.io/Scrimba_Projects/Color_scheme_generator/)
+[Live page](https://ha-anna.github.io/Scrimba_Projects/Color_scheme_generator/)
 
-[Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/Color_scheme_generator)
+[Github Repo](https://github.com/ha-anna/ha-anna.github.io/tree/main/Scrimba_Projects/Color_scheme_generator)
 
-![](https://github.com/its-haanna/its-haanna.github.io/raw/main/Scrimba_Projects/Color_scheme_generator/gif_colorschemegenerator.gif)
+![](https://github.com/ha-anna/ha-anna.github.io/raw/main/Scrimba_Projects/Color_scheme_generator/gif_colorschemegenerator.gif)
 
 ---
 
@@ -42,11 +42,11 @@ Today, I kept working with APIs and finished a War card game project.
 
 It was my first time writing SASS but I have to say I enjoyed it! It looks much cleaner than standard CSS and I truly fell in love with & parent selector.
 
-[Live Page](https://its-haanna.github.io/Scrimba_Projects/War_card_game/)
+[Live Page](https://ha-anna.github.io/Scrimba_Projects/War_card_game/)
 
-[Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/War_card_game)
+[Github Repo](https://github.com/ha-anna/ha-anna.github.io/tree/main/Scrimba_Projects/War_card_game)
 
-![](https://github.com/its-haanna/its-haanna.github.io/raw/main/Scrimba_Projects/War_card_game/gif_warcardgame.gif)
+![](https://github.com/ha-anna/ha-anna.github.io/raw/main/Scrimba_Projects/War_card_game/gif_warcardgame.gif)
 
 ---
 
@@ -65,11 +65,11 @@ So today, I'd like to remind everyone to take breaks and not be discouraged. If 
 I spent this Sunday learning about local storage, API and SASS while coding the Movie Watchlist project.
 I had some moments when I was starting to think I cannot do it but taking a short break and reorganizing my plan helped me thunderously.
 
-[Live Page](https://its-haanna.github.io/Scrimba_Projects/Movie_watchlist/)
+[Live Page](https://ha-anna.github.io/Scrimba_Projects/Movie_watchlist/)
 
-[Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/Movie_watchlist)
+[Github Repo](https://github.com/ha-anna/ha-anna.github.io/tree/main/Scrimba_Projects/Movie_watchlist)
 
-![](https://github.com/its-haanna/its-haanna.github.io/raw/main/Scrimba_Projects/Movie_watchlist/gif_moviewatchlist.gif)
+![](https://github.com/ha-anna/ha-anna.github.io/raw/main/Scrimba_Projects/Movie_watchlist/gif_moviewatchlist.gif)
 
 ---
 
@@ -138,9 +138,9 @@ Today I completed my first React Solo Project! (link below) After some ups and d
 
 [Live Page](https://business-card-react-six.vercel.app/)
 
-[Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/react_business_card)
+[Github Repo](https://github.com/ha-anna/ha-anna.github.io/tree/main/Scrimba_Projects/react_business_card)
 
-![](https://github.com/its-haanna/its-haanna.github.io/raw/main/Scrimba_Projects/react_business_card/gif_react_businesscard.gif)
+![](https://github.com/ha-anna/ha-anna.github.io/raw/main/Scrimba_Projects/react_business_card/gif_react_businesscard.gif)
 
 ---
 
@@ -150,9 +150,9 @@ Today I completed the second solo #react project and I loved every minute of it!
 
 [Live Page](https://react-travel-journal-one.vercel.app/)
 
-[Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/react_travel_journal)
+[Github Repo](https://github.com/ha-anna/ha-anna.github.io/tree/main/Scrimba_Projects/react_travel_journal)
 
-![](https://github.com/its-haanna/its-haanna.github.io/raw/main/Scrimba_Projects/react_travel_journal/gif_travel-journal.gif)
+![](https://github.com/ha-anna/ha-anna.github.io/raw/main/Scrimba_Projects/react_travel_journal/gif_travel-journal.gif)
 
 ---
 
@@ -161,9 +161,9 @@ Today I completed the second solo #react project and I loved every minute of it!
 Phew! Today was a busy day! I started my morning by revising semantic #HTML and accessibility (ARIA, colors, alt text, prefers-reduced-motion, focus indicators) and this led me to revise all of my older projects and improve their accessibility.
 After that, I jumped straight back into #React. I began another project, a meme generator and spent my time setting it up, creating #CSS, a custom logo and looking for nice colors to use. Now I am learning about state and the difference between state and props.
 
-[Live Page](https://its-haanna.github.io/Scrimba_Projects/basketball_scoreboard/)
+[Live Page](https://ha-anna.github.io/Scrimba_Projects/basketball_scoreboard/)
 
-[Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/basketball_scoreboard)
+[Github Repo](https://github.com/ha-anna/ha-anna.github.io/tree/main/Scrimba_Projects/basketball_scoreboard)
 
 ![](https://media-exp1.licdn.com/dms/image/C4E22AQEs7Teo11xi3g/feedshare-shrink_2048_1536/0/1654792985957?e=1661990400&v=beta&t=3ksMtn1zqWEUlnzbQNeKBDFQfYa-cUy3DC9okr4duaQ)
 
@@ -206,11 +206,11 @@ I will be travelling across the globe in a few days and things are about to get 
 
 [Live Page](https://react-airbnb-clone-mocha.vercel.app/)
 
-[Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/react_airbnb_clone)
+[Github Repo](https://github.com/ha-anna/ha-anna.github.io/tree/main/Scrimba_Projects/react_airbnb_clone)
 
 ![](https://media-exp1.licdn.com/dms/image/C4E22AQF_Z0wv9hprzQ/feedshare-shrink_2048_1536/0/1655137784808?e=1663804800&v=beta&t=13uRG2TN7gi6LCsdmKMkBgFQmgOJ0vEfeO4NxKXWjbA)
 
-![](https://github.com/its-haanna/its-haanna.github.io/blob/main/Scrimba_Projects/react_airbnb_clone/gif_airbnb-clone.gif)
+![](https://github.com/ha-anna/ha-anna.github.io/blob/main/Scrimba_Projects/react_airbnb_clone/gif_airbnb-clone.gif)
 
 ---
 
@@ -258,7 +258,7 @@ Today I've been learning about conditional rendering, local state, and unified s
 
 Since today is the first day of #ScrimbaChallengeWeek, I decided to also participate and get some #JavaScript practice! It's always a great opportunity to see solutions from other learners and learn a thing or two.
 
-I also learned the basics of forms in #react and updated my links and resources repo (you can find it here: [Github Repo](https://github.com/its-haanna/links-and-resources)).
+I also learned the basics of forms in #react and updated my links and resources repo (you can find it here: [Github Repo](https://github.com/ha-anna/links-and-resources)).
 
 ![](https://media-exp1.licdn.com/dms/image/C4D22AQE7TmwPVOeEQA/feedshare-shrink_800/0/1655766019926?e=1663804800&v=beta&t=Tu1NMthLuiOQdj2bkS-ohoEBOKQvOy5xIg5gSvDu8Sw)
 
@@ -310,9 +310,9 @@ Starting tomorrow, I will take a week-long break from posting. I plan to spend t
 
 [Live Page](https://react-meme-generator-liart.vercel.app/)
 
-[Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/react_meme_generator)
+[Github Repo](https://github.com/ha-anna/ha-anna.github.io/tree/main/Scrimba_Projects/react_meme_generator)
 
-![](https://github.com/its-haanna/its-haanna.github.io/raw/main/Scrimba_Projects/react_meme_generator/gif_meme-generator.gif)
+![](https://github.com/ha-anna/ha-anna.github.io/raw/main/Scrimba_Projects/react_meme_generator/gif_meme-generator.gif)
 
 ---
 
@@ -351,9 +351,9 @@ Tomorrow, I will be working on adding additional things, such as adding dots on 
 
 [Live Page](https://react-tenzies-game.vercel.app/)
 
-[Github Repo](https://github.com/its-haanna/its-haanna.github.io/tree/main/Scrimba_Projects/react_tenzies_game)
+[Github Repo](https://github.com/ha-anna/ha-anna.github.io/tree/main/Scrimba_Projects/react_tenzies_game)
 
-![](https://github.com/its-haanna/its-haanna.github.io/raw/main/Scrimba_Projects/react_tenzies_game/gif_tenzies.gif)
+![](https://github.com/ha-anna/ha-anna.github.io/raw/main/Scrimba_Projects/react_tenzies_game/gif_tenzies.gif)
 
 ---
 
@@ -402,7 +402,7 @@ It was tough but now that it's done, I think how many things I've learned and ho
 Can't wait to start the Advanced React module soon! 
 
 [Live Page](https://react-quizzical.vercel.app/)
-[Github Repo](https://github.com/its-haanna/react_quizzical)
+[Github Repo](https://github.com/ha-anna/react_quizzical)
 ![](https://media-exp1.licdn.com/dms/image/C4D22AQEaTILa24ZnhA/feedshare-shrink_800/0/1657670315765?e=1671667200&v=beta&t=_CYVYnpJKhxU0EP59fd-HwHciaqO2DMv8ror-hzL7Ok)
 
 ---
@@ -415,7 +415,7 @@ I've also gathered some insightful tips and reviews about my Quizzical and plan 
 
 When I began learning how to code, I was afraid of reviews and having others tell me what mistakes I'd made. But ever since I became a part of the Scrimba community, I discovered how much I could improve by having my code reviewed and reviewing other people's code. So nowadays, I'm actually looking forward to seeing what others think about my code. :)
 
-[My updated resources repository](https://github.com/its-haanna/links-and-resources)
+[My updated resources repository](https://github.com/ha-anna/links-and-resources)
 
 
 ---
